@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plays>
+
+	<play>
+		<date>2016-01-01</date>
+		<name>New Year adventures of cats</name>
+		<description>Incredible adventures !!!</description>
+		<about>Producer A. A. Melnikov. Stanislavsky team.</about>
+		<picture>cats.jpg</picture>
+	</play>
+
+	<play>
+		<date>2016-01-02</date>
+		<name>Don Kihot</name>
+		<description>Statement on the novel by Miguel de Cervantes</description>
+		<about>Producer A. A. Melnikov. Stanislavsky team.</about>
+		<picture>donkihot.jpg</picture>
+	</play>
+
+	<play>
+		<date>2016-01-03</date>
+		<name>Crime and Punishment</name>
+		<description>Premiere. Setting the story F.M. Dostoyevsky.</description>
+		<about>Producer A. A. Habibylin. Stanislavsky team.</about>
+		<picture>crime.jpg</picture>
+	</play>
+
+</plays>

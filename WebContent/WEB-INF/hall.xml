@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hall-workload>
+
+	<hall>
+		<date>2016-01-01</date>
+		<place number="1" category="VIP" user="ded" />
+		<place number="2" category="VIP" user="e.chupilin" />
+	</hall>
+	
+	<hall>
+		<date>2016-01-01</date>
+		<place number="1" category="VIP" user="ded" />
+		<place number="2" category="VIP" user="e.chupilin" />
+	</hall>
+
+</hall-workload>
